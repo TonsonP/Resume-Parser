@@ -1,0 +1,9 @@
+numpy==1.26.4
+pandas==2.2.2
+spacy
+matplotlib
+Flask
+Flask-Bootstrap
+Flask-WTF
+PyPDF2
+pyperclip3
